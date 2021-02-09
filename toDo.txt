@@ -2,7 +2,6 @@
 |BUGLIST|
 +=======+
 
-# if a portal spawns below you you aren't teleported - collision doesn't begin
 # can't rotate camera for 0.4 seconds after teleportation - lerp forces certain movement
 
 +=======+
@@ -10,6 +9,7 @@
 +=======+
 
 # copy more sounds from original game
+# stare at the art room
 
 +=======+
 | LATER |
@@ -18,5 +18,4 @@
 # duplicate objects so that they teleport seamlessly
 # recursive view in portals
 # portal has small gravity that alligns you
-# stare at the art room
 # chell body and animations
