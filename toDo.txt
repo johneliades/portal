@@ -2,9 +2,6 @@
 |BUGLIST|
 +=======+
 
-# can't rotate camera for 0.4 seconds after teleportation - lerp forces certain movement
-^ fixed but there is still an interruption of movement, not sure why.
-
 +=======+
 |EZ FAST|
 +=======+
