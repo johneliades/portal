@@ -1,6 +1,8 @@
 # portal_UE5
 
-The portal game's mechanics ported to Unreal Engine 5. Simply downloading the project and importing it in UE5 should work.
+The portal game's teleportation mechanics recreated from scratch on Unreal Engine 5.
+
+Simply downloading the project and importing it in UE5 should work.
 
 <p float="left">
   <img src="https://github.com/johneliades/portal_UE4/blob/master/gifs/1.gif" width="49%" />
